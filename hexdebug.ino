@@ -1,8 +1,8 @@
-#define dataInPin 4
-#define selInPin  5
-#define selOutPin 6
-#define dataOutPin 7
-#define clockPin 10
+#define dataInPin PIN_B1
+#define selInPin  PIN_B3
+#define selOutPin PIN_B4
+#define dataOutPin PIN_B0
+#define clockPin PIN_B2
 
 #define MAX_NOOP      0x00
 #define MAX_DIG0      0x01
